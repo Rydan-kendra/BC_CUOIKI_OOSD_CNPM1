@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT">
+  <diagram id="phan-ra-ca" name="Hình 2.3 - Phân rã bàn giao trưởng ca">
+    <mxGraphModel dx="1493" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="735" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="boundary3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.55;verticalAlign=top;align=center;spacingTop=17;fontSize=21;fontFamily=Arial;fontStyle=1;" value="PHÂN RÃ USE CASE: BÀN GIAO GIỮA CÁC TRƯỞNG CA" vertex="1">
+          <mxGeometry height="360" width="1030" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeader3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;strokeWidth=1.35;fontFamily=Arial;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="90" width="55" x="140" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ucH" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Arial;fontSize=15;align=center;verticalAlign=middle;" value="Lập biên bản bàn giao ca" vertex="1">
+          <mxGeometry height="80" width="340" x="370" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ucReview" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Arial;fontSize=15;align=center;verticalAlign=middle;" value="Rà soát các vấn đề tồn đọng" vertex="1">
+          <mxGeometry height="80" width="340" x="860" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ucAccept" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Arial;fontSize=15;align=center;verticalAlign=middle;" value="Xác nhận tiếp nhận ca" vertex="1">
+          <mxGeometry height="80" width="340" x="370" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lead_h" edge="1" parent="1" source="aLeader3" style="endArrow=none;startArrow=none;html=1;strokeWidth=1.45;rounded=0;exitX=1;exitY=0.43;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ucH" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lead_acc" edge="1" parent="1" source="aLeader3" style="endArrow=none;startArrow=none;html=1;strokeWidth=1.45;rounded=0;exitX=1;exitY=0.6;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ucAccept" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_inc_review" edge="1" parent="1" source="ucH" style="dashed=1;dashPattern=7 4;endArrow=open;endSize=14;startArrow=none;html=1;strokeWidth=1.55;rounded=0;fontSize=14;fontFamily=Arial;exitX=1;exitY=0.35;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ucReview" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mylpR5agdz28dTWVs0iV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Trưởng ca" vertex="1">
+          <mxGeometry height="30" width="92.5" x="121.25" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "larman2005",
+    "type": "book",
+    "title": "Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development",
+    "author": [
+      {
+        "family": "Larman",
+        "given": "Craig"
+      }
+    ],
+    "edition": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "publisher": "Prentice Hall",
+    "publisher-place": "Upper Saddle River, NJ, USA",
+    "ISBN": "9780131489066",
+    "URL": "https://www.pearson.com/en-us/subject-catalog/p/applying-uml-and-patterns-an-introduction-to-object-oriented-analysis-and-design-and-iterative-development/P200000000422/9780131489066"
+  },
+  {
+    "id": "omg2017",
+    "type": "report",
+    "title": "OMG Unified Modeling Language (OMG UML), Version 2.5.1",
+    "author": [
+      {
+        "literal": "Object Management Group"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12
+        ]
+      ]
+    },
+    "publisher": "Object Management Group",
+    "URL": "https://www.omg.org/spec/UML/2.5.1",
+    "number": "2.5.1"
+  },
+  {
+    "id": "fowler2003",
+    "type": "book",
+    "title": "UML Distilled: A Brief Guide to the Standard Object Modeling Language",
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "edition": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "Addison-Wesley",
+    "publisher-place": "Boston, MA, USA",
+    "ISBN": "9780321193681",
+    "URL": "https://martinfowler.com/books/uml.html"
+  },
+  {
+    "id": "nextjs_docs",
+    "type": "webpage",
+    "title": "Next.js Documentation",
+    "author": [
+      {
+        "literal": "Vercel"
+      }
+    ],
+    "URL": "https://nextjs.org/docs",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "typescript_docs",
+    "type": "webpage",
+    "title": "The TypeScript Handbook",
+    "author": [
+      {
+        "literal": "Microsoft"
+      }
+    ],
+    "URL": "https://www.typescriptlang.org/docs/handbook/intro",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "nestjs_docs",
+    "type": "webpage",
+    "title": "NestJS Documentation",
+    "author": [
+      {
+        "literal": "NestJS"
+      }
+    ],
+    "URL": "https://docs.nestjs.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sqlserver_docs",
+    "type": "webpage",
+    "title": "SQL Server Technical Documentation",
+    "author": [
+      {
+        "literal": "Microsoft"
+      }
+    ],
+    "URL": "https://learn.microsoft.com/en-us/sql/sql-server/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "openid_core2023",
+    "type": "report",
+    "title": "OpenID Connect Core 1.0 incorporating errata set 2",
+    "author": [
+      {
+        "family": "Sakimura",
+        "given": "Nat"
+      },
+      {
+        "family": "Bradley",
+        "given": "John"
+      },
+      {
+        "family": "Jones",
+        "given": "Michael"
+      },
+      {
+        "family": "de Medeiros",
+        "given": "Breno"
+      },
+      {
+        "family": "Mortimore",
+        "given": "Chuck"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          15
+        ]
+      ]
+    },
+    "publisher": "OpenID Foundation",
+    "URL": "https://openid.net/specs/openid-connect-core-1_0.html"
+  },
+  {
+    "id": "keycloak_docs",
+    "type": "webpage",
+    "title": "Keycloak Documentation",
+    "author": [
+      {
+        "literal": "Keycloak"
+      }
+    ],
+    "URL": "https://www.keycloak.org/docs/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "docker_docs",
+    "type": "webpage",
+    "title": "Docker Documentation",
+    "author": [
+      {
+        "literal": "Docker, Inc."
+      }
+    ],
+    "URL": "https://docs.docker.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          15
+        ]
+      ]
+    }
+  }
+]
